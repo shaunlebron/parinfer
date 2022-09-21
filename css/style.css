@@ -187,6 +187,11 @@ p, li {
   overflow-y: auto;
 }
 
+.sidebar-logo {
+  margin:60px 0 0 70px;
+  display:block
+}
+
 .credits {
   font-size: 0.8em;
   text-align: center;
@@ -672,3 +677,4 @@ i.fa {
     display: block;
   }
 }
+
